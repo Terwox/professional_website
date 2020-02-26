@@ -32,7 +32,7 @@ canonifyurls = true
 
 [author]
   name = "James Myers"
-  bio = "Cthonic UX  \n Contact me at james.myers@usd.edu."
+  bio = "Cthonic UX\n\nContact me at james.myers@usd.edu"
   job = "UX Researcher"
   location = "St. Louis, MO"
   # Your Gravatar email. Overwrite `author.picture` everywhere in the blog
