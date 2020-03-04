@@ -12,7 +12,7 @@ showActions:    false
 
 ### Relevant Experience 
 ___
-**Express Scripts** <br>, St. Louis, MO.  
+**Express Scripts**, St. Louis, MO.  
 *August 2019 - Present* 
 Senior UX Researcher
 
