@@ -6,21 +6,32 @@ showActions:    false
 
 
 
-## James Myers &ndash; UX Researcher
+# James Myers &ndash; UX Researcher
 [james.myers@usd.edu](mailto:james.myers@usd.edu) | 
 [(309) 643-7457](tel:3096437457)
+
+UX researcher with industry experience in data visualization, healthcare, and consumer electronics with an academic background in human factors, experimental research, statistics, and psychophysiology. 
+
+* Automated a 40 hour/week data analysis job into a 10 hour/week job.
+* Ran UX tests with a team that helped reduce returned TVs profit losses by $88M for a client.
+* Researched product improvements by creating usability tests and managing testing teams.
+
 
 ### Relevant Experience 
 ___
 **Express Scripts**, St. Louis, MO.  
-*August 2019 - Present* 
+*August 2019 - Present* <br>
 Senior UX Researcher
 
-* Create models to determine a  lead's monetary value to spend more effectively and upgrade the workflow distribution.<br>
-* Write SQL stored procedures, optimized with clustered indices, to extract and feature engineer data, pull reports and model information, and validate Python implementation.<br>
-* Perform analysis to provide actionable insights on how to improve the cross-sell rate, filter out undesirable leads, and improve workflow.<br>
-* Design and write code (including unit tests) to implement models, utilize predictions, and log results — also errors if necessary.<br>
-* Troubleshoot issues whenever necessary, either by modifying Python or SQL code once a thorough analysis has been done to determine the underlying causes.<br>
+* Duties: Usability
+    * Supported designs for web and mobile interfaces for Accredo, a pharmacy delivering complex medications to members.  
+    * Served as the eye-tracking expert, helped setup the labotory, trained researchers, and determined testing procedures.
+* Data science
+    * Updated personas using large-scale surveys with latent profile analysis.
+    * Visualized Markov chains to understand the language and topics used by members in support calls.
+* Skills
+    * UX, R, Qualtrics, interface design, Tobii, Python, eye tracking, UserZoom.com, prototype evaluation, InVision, Jira, JQL, 
+
 
  **Microsoft**, Redmond, WA. <br>
 *April 2018 - June 2019* <br>
@@ -33,9 +44,9 @@ UX Researcher <br>
 * Skills
     * UX, R, Qualtrics, StatsIQ, interface design, heuristics, human factors engineering, Ovo, mobile research, recruiting, eye tracking, dashboards, Sharepoint, Onedrive, telemetry, UserTesting.com, Power BI, moderated and unmoderated studies, prototype evaluation, impact analysis, Kusto, KQL, Figma.
 
-**D2 aka Documents & Design**, North Sioux City, SD.
-*September 2015 - August 2017* 
-UX Researcher
+**D2 aka Documents & Design**, North Sioux City, SD.<br>
+*September 2015 - August 2017* <br>
+UX Researcher<br>
 *	Duties:  Usability
     * Managed and worked on UX research teams, working primarily on consumer electronics and informational software, as well as household appliances.
 *	Data analysis
@@ -50,9 +61,9 @@ UX Researcher
     *	Led a team implementing an android app to help users setup a newly purchased tablet.  HTML changes, along with minor android code editing.
 *	Skills:  UX, Cx, interface design, R, SPSS text analytics, statistics, web scraping, automation, heuristic analyses, human factors engineering, factor analysis, competitive and comparative research, a/b testing, in-store research.
 
-**Education**
-	University of South Dakota, Vermillion, SD.
-	Doctoral candidate in Humans Factors Psychology.  ABD.  
+**Education**<br>
+	University of South Dakota, Vermillion, SD.<br>
+	Doctoral candidate in Humans Factors Psychology.  ABD.  <br>
 *	Specialized in human-computer interaction.
 *	Diss. Topic “Detecting Flow during Games with Psychophysiology.”
     *	This study examines the user experience of people playing a game with EEG.
@@ -60,8 +71,8 @@ UX Researcher
 *	Training included card sorts via the SWAT method, persona creation and presentation, and working in Axure.
 	Bradley University, Peoria, IL.  B.S. in Psychology and Religious Studies.
 
-**Computer Skills**
-	Programming languages:  R, MATLAB, SPSS, VB, HTML, familiarity w/ C++, PHP, Assembly, and Android.
+**Computer Skills**<br>
+	Programming languages:  R, MATLAB, SPSS, VB, HTML, familiarity w/ Python, C++, PHP, Assembly, and Android.
 	Operating Systems:  Windows 10 through 3.11, DOS.  Some Mac and Linux experience.
 	Applications:  MS Office (Excel, Word, PowerPoint, Visio, Outlook,) MS Access, Axure, InVision, Clarabridge, Photoshop, Tableau, Figma, Power BI
 
